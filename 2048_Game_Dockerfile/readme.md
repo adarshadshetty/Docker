@@ -8,7 +8,7 @@
 ##### docker ps 
 ##### docker ps -a
 ##### Enable the inbound port 80 in AWS SG group
-##### hit for publicIP:80
+##### hit for publicIP:80 in search engine.
 ##### To Stop and Remove the Docker Container and Image Use below Command
 ### docker stop <containerID>
 ### docker rm -rf <ImageID>
