@@ -12,3 +12,5 @@
 ##### To Stop and Remove the Docker Container and Image Use below Command
 ### docker stop <containerID>
 ### docker rm -rf <ImageID>
+
+###### For More Detail Refer the https://medium.com/@ahammed.jabirp/simple-devops-project-deployment-of-2048-game-on-aws-using-docker-76213ea8c00
