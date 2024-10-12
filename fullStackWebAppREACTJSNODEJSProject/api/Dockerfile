@@ -11,7 +11,7 @@ WORKDIR /usr/src/api
 COPY package.json . 
 
 # Copies to the this dir /usr/src/api
-COPY package.lock.json .
+COPY package-lock.json .
 
 # Install all the dependencies
 RUN npm install 
